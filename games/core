@@ -1,13 +1,7 @@
 {
-  "GameID": "",
-  "GameName": "",
-  "Description": "",
-  "Genere": "",
-  "Color": "",
-  "Banner": "",
-  "Icon": "",
-  "AuthorID": "",
-  "AuthorName": "",
-  "AuthorType": "group",
-  "AuthorImg": ""
+    "GameID0": "",
+    "GameID": "",
+    "GameName": "",
+    "Description": "",
+    "Genere": ""
 }
